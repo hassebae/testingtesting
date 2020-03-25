@@ -1,6 +1,6 @@
 git clone <URL>
-git config user.name "<user>"
-git config user.name <email>"
+git config --global user.name "<user>"
+git config --global user.email "<email>"
 git remote rm origin
 git remote add origin https://github.com/hassebae/testingtesting.git
 git add test.txt
