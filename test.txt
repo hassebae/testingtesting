@@ -1,1 +1,8 @@
+git clone <URL>
+git config user.name "<user>"
+git config user.name <email>"
+git remote rm origin
+git remote add origin https://github.com/hassebae/testingtesting.git
+git add test.txt
+git commit -m "changed test file"
 git push origin master
